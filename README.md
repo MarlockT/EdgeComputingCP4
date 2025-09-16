@@ -33,4 +33,4 @@ Os dados são enviados periodicamente (≥ 15s) para a **plataforma ThingSpeak**
 ## Evidências entregues
 - Código fonte no GitHub: este repositório  
 - [Simulação Wokwi](https://wokwi.com/projects/442214424556517377)  
-- [Vídeo (YouTube)](INSERIR_LINK_AQUI)  
+- [Vídeo (YouTube)](https://youtu.be/dvAOcuu_J3g)  
